@@ -18,7 +18,7 @@ pip install --upgrade 'openai>=1.0'
 
 ```
 pip install requests
-pip install --upgrade gradio
+pip install gradio
 pip install beautifulsoup4
 ```
 
