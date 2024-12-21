@@ -14,6 +14,8 @@ from llm_api.glm_api import translate_by_glm, rewrite_by_glm
 import traceback
 import gradio as gr
 
+import markdownify
+
 def parse_src_blog(src_blog_url: str) -> List[str]:
     """
     从 Medium 文章中提取正文内容，保留标题和格式，转换为 markdown
@@ -27,23 +29,27 @@ def parse_src_blog(src_blog_url: str) -> List[str]:
     response.raise_for_status()
     
     soup = BeautifulSoup(response.text, 'html.parser')
+    md_content = markdownify.markdownify(str(soup.find('div', class_='main-content mt-8')), heading_style="ATX")
+    f = open("test.md", "w")
+    f.write(md_content)
+    f.close()
+    print("md_content:", md_content)
     paragraphs = []
     
-    if main_content := soup.find('div', class_='main-content mt-8'):
-        #print("main_content:", main_content.get_text(separator='\n'))
-        lines = main_content.get_text(separator='\n').split('\n')
-        paragraph = ""
-        for line in lines:
-            line = line.strip()
-            if not line:
-                continue
-            # 判断这一行是否包含英文标点符号
-            if any(char in line for char in string.punctuation):
-                paragraph += line
-                paragraphs.append(paragraph)
-                paragraph = ""
-            else:
-                paragraph += line
+   
+    lines = md_content.split('\n')
+    paragraph = ""
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        # 判断这一行是否包含英文标点符号
+        if any(char in line for char in string.punctuation):
+            paragraph += line
+            paragraphs.append(paragraph)
+            paragraph = ""
+        else:
+            paragraph += line
     print("paragraphs:", paragraphs)    
     return paragraphs
 
@@ -58,13 +64,22 @@ def process_url(url: str) -> tuple[str, str]:
         
         # 翻译并重写
         translated_text = ""
+        waited_rewrite_text = ""
+        cnt = 0
         for para in content:
+
             if para and len(para) > 2:
                 translated = translate_by_glm(para)
                 print("translated finished:", translated)
-                rewritten = rewrite_by_glm(translated)
-                print("rewritten finished:", rewritten)
-                translated_text += rewritten + "\n\n"
+                if cnt<=3:
+                    waited_rewrite_text += translated + "\n\n"
+                else:
+                    rewritten = rewrite_by_glm(waited_rewrite_text)
+                    print("rewritten finished:", rewritten)
+                    translated_text += rewritten + "\n\n"
+                    waited_rewrite_text = ""
+                    cnt = 0
+            cnt += 1
         
         return original_text, translated_text
     except Exception as e:
