@@ -109,7 +109,8 @@ def main():
             js="async () => {const text = document.querySelector('#copy_btn').parentElement.parentElement.querySelector('textarea').value; await navigator.clipboard.writeText(text);}"
         )
     
-    demo.launch()
+    demo.launch(share=True)
+
 
 if __name__ == "__main__":
     main()
