@@ -1,129 +1,185 @@
 
 
-When it comes to breathing, our input is rather limited.
+Controversies follow those who dare to deter from the traditional path to explore the unknown.
 
-We can speed the breath up, slow it down, or even pause it altogether. We can make it deeper or shallower or more or less intense, but that's about it.
+[Dr. Frank Lipman](https://www.drfranklipman.com/), a professional internal medicine doctor, followed the path of functional medicine to solve the mystery of longevity.
 
-Of the few decisions we can make, however, one of the most important is whether we breathe in through the nose or mouth as this sets off a chain of [events](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859128/#:~:text=The%20vagus%20nerve%20represents%20the,%2C%20digestion%2C%20and%20heart%20rate.) that affects our nervous system, heart, and brain, as well as our hormonal levels and digestion.
+Functional medicine is not everyone's cup of tea, but you can't ignore his 35 years of experience where he considered longevity an important aspect of his work.
 
-Remarkably, it's estimated that about [30 to 50 percent](http://www.lenus.ie/hse/bitstream/10147/559021/1/JAN15Art7.pdf) of adults breathe through their mouth, especially earlier in the day.
+Lifestyle medicine can boost your longevity, but these everyday mistakes are wrecking your chance at a long and healthy life.
 
-This carries potential [health risks](https://www.healthline.com/health/mouth-breathing#symptoms) that vary from bad breath and dry mouth all the way up to chronic fatigue and autoimmune diseases.
+So, follow Dr. Lipman's advice and give up these reckless daily habits to improve your health span for a better quality of life.
+### The biggest adversary of longevity
 
-Luckily, the nose is there to help. Here are eight reasons why.
-### 1. Nose breathing filters and warms the incoming air
+Inflammation is the biggest roadblock in your journey to healthy longevity. And overeating is the kerosene that accelerates inflammation rapidly.
 
-Nose breathing is the body's first line of defense against sickness, illness, disease, and inflammation and it has two ways of operating:
+"We all eat too much", a problem that Dr. Lipman addresses [within the first 30 seconds of this video.](https://www.youtube.com/watch?v=keLwUmbNcVg)
 
-Firstly, tiny capillaries in the nose begin to warm the incoming cool air before mucus in the throat warms it further. This combination helps to keep the breath at an optimal temperature for the lungs to receive.
+Calorie restriction is proven to boost longevity. [Eating fewer calories daily supports the aging process](https://www.nature.com/articles/d41586-024-03277-6#:~:text=Cutting%20calorie%20intake%20can%20lead,caused%20by%20consuming%20less%20food.), a truth we have known for at least a decade.
 
-Then secondly, little hairs in the nose and throat called cilia (Latin for eyelashes) help to trap any small airborne particles that are present in the atmosphere such as dust and bacteria, and prevent them from entering the lungs.
+The scarcity mindset forces you to fill your, so you fall for the family-size packs that guarantee the best deals at the cost of your health.
 
-As a brilliant [scientific paper](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) pointed out: "The nose is a vital and much underrated organ." And "to realize its importance we only need to reflect on when we last suffered from a bad cold. Nasal congestion and a runny nose have a noticeable effect on our ability to breathe, our energy levels, our ability to sleep, and our general ability to function."
-### 2. Nose breathing boosts nasal nitric oxide
+The fat in your tissues overflows and leaks into muscles and organs over time. It's a catastrophic situation that causes metabolic diseases like diabetes.
 
-Nose breathing [releases](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) an important gas called nitric oxide.
+[Obesity is linked to poor brain health as it can decrease the grey matter](https://pmc.ncbi.nlm.nih.gov/articles/PMC8302366/) and can even change the structure of the brain over time.
 
-Nitric oxide helps to [maintain](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) the health of our blood vessels through a process called vasodilation. Vasodilation is the art of relaxing the inner muscles of the cells which encourages them to open. This helps to [improve](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) blood circulation and blood flow, reduce inflammation and tension, improve heart health, lower blood pressure, enhance memory and cognitive function, improve endurance and performance, increase nutrient uptake, reverse ageing, and enhance the flow of oxygen.
+Another diet mistake that increases inflammation is sugar, an ingredient hidden in most healthy foods.
 
-Nitric oxide is a bronchodilator too. Bronchodilation is the art of relaxing the inner muscles of the lungs which in turn help the airways (bronchi) widen. This [continues](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) to improve blood circulation and blood flow whilst boosting oxygen levels and overall lung health.
+Increased sugar consumption damages your gut health as it wrecks the diversity of the gut microbiome, which can cause a leaky gut.
 
-It [also](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) has antiviral, antibacterial, anti-inflammatory, antioxidant, and antimicrobial properties which help to kill viruses and bacteria in the nose and throat before they go any further.
-> ***Cool*** ***[fact](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf)******:*** No nitric oxide is released through mouth breathing.
+[A diverse microbiome can help suppress the types of T cells](http://A healthy gut is your first defense against inflammation.) which cause inflammation. A healthy gut is your first defense against inflammation.
 
-### 3. Nose breathing balances both hemispheres of the brain
+Your diet is the deciding factor when it comes to health. A simple change in diet alone makes a significant difference in your health and longevity.
 
-A few thousand years ago, ancient yogis in the East developed a series of breathing exercises called pranayama (prana means life force energy in Sanskrit; yama means control).
+Moreover, the right diet today will keep your brain healthy in the long run. Protect it from teh dangers of inflammation by eating the optimal amount.
+### The one thing your brain needs the most
 
-As they were experimenting with the different ways to breathe, they discovered that the body has a natural rhythm that [alternates](https://en.wikipedia.org/wiki/Nasal_cycle) from side to side every 90 minutes or so.
+The productivity bandwagon made us believe that life is useless unless you burn the midnight oil every night to become rich overnight.
 
-During these 90-minute cycles, one nostril is more open than the other. This opening and closing is mostly due to the flow of mucus and other liquids inside the brain exerting pressure on brain tissue. It's a perfectly normal and necessary process for removing toxins. However, because each side of the nose [connects](https://www.rockhurst.edu/counseling-center/relaxation-zone/alternate-nostril-breathing#:~:text=By%20understanding%20that%20each%20nostril,floor%20with%20your%20back%20straight.) to each hemisphere of the brain and each hemisphere of the brain has different qualities associated with it (see image below), we can trace the breath through each nostril to better understand what is going on inside the brain.
+This consumeristic mindset convinces you to work for all the things you need. Society is a harsh judge, so you work hard.
 
-When the left nostril is more open, for example, the right side of the brain will be more active so we're more likely to feel creative and/or imaginative. When the right nostril is more open, the left side of the brain will be more active so we're more likely to feel detail-oriented and/or logical.![None]()
+But in the quest to achieve appreciation from society, you lose your health a little every day.
 
-Image from [wikicommons.org](https://commons.wikimedia.org/w/index.php?search=brain+lateralization&title=Special:MediaSearch&go=Go&type=image)
+Sleep is mistaken as a passive process when it's an essential function without which your body can't survive.
 
-It can work the other way around too and that's where breathing exercises really come into their own.
+Your brain is hard at work when you sleep, the glymphatic system is a fluid clearance pathway that eliminates metabolic waste products from the brain.
 
-For example, if I'm struggling to focus, I might be operating more from my creative right brain so breathing in through my right nostril to activate my left brain could help balance things out. Similarly, if I'm wanting to enhance my creativity, I can breathe through my left nostril to activate my right brain a little more.
+[A disruption in the glymphatic process](https://pmc.ncbi.nlm.nih.gov/articles/PMC9656009/) can cause headaches and increase your risk of Parkinson's disease as well.
 
-Take a moment to connect to your breath — Which side of your nose is more open right now? Is there any correlation with how you're feeling?
+Sleep deprivation can harm your cognitive functions as it can disturb [memory consolidation in the hippocampus.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10155483/)
 
-A great exercise to balance both hemispheres of the brain is [alternate nostril breathing](https://www.youtube.com/watch?v=MTTACuYBu3k&t=4s) or nadi shodhana pranayama.
+Yet we don't value the importance of a good night's sleep so you don't practice proper sleep hygiene that can boost your sleep quality.
 
-Here is a short video if you're curious to try:
-### 4. Nose breathing engages the diaphragm
+[Sleeping patterns boost longevity as 8%](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life) of deaths from any cause are linked to poor sleep patterns.
 
-This is important because there are billions and billions of nerves that run from the brain to the diaphragm via the lungs and heart. So, as the diaphragm moves up and down like a pump, the heart, brain, nervous system, and digestive system [move in accordance](https://www.yorku.ca/earmstro/journey/diaphragm.html#:~:text=As%20you%20can%20see%2C%20the,and%20down%20with%20the%20diaphragm.) with its rhythm because they follow the same movement.
+Getting enough sleep is no longer enough. Low sleep latency, restful sleep quality, and the ability to stay asleep contribute to good sleep quality.
 
-If it's fast and erratic each organ and its corresponding functions will speed up. If it's calm and relaxed, they will all slow down. It's pretty intuitive stuff but the cascade of emotions that happens "downstream" impacts the majority of our lives.
+And the only way to achieve optimal sleep quality is by following an easy sleep schedule that you can follow consistently daily.
 
-Posture is also important. Slouching [restricts the diaphragm's full range](https://www.theroundclinic.com/single-post/osteopathy-how-bad-posture-affects-your-breathing#:~:text=A%20slouching%20posture%20at%20our,fully%2C%20thus%20impairing%20optimal%20breathing.) of movement, for example, so even though the breath will breathe automatically, its effectiveness changes from breath to breath depending on how easily it flows in and out.
+Dr. Lipman prescribes a simple habit that leads to a better sleep schedule is having the same wake-up and bedtime.
 
-Nose breathing is a great way to engage the diaphragm and support critical functions in the body and help them run optimally.
+Be flexible if socialization pushes your bedtime on weekends or on holidays but make sure to follow your wake-up time daily no matter what.
 
-To know if you're diaphragmatically breathing, notice if your belly expands out in front of you when you breathe in. If it fills up like a balloon, you're diaphragmatically breathing. If it doesn't, you're more likely breathing into the upper chest/throat area.![None]()
+You can take short naps during the day to catch up on your sleep, but wake up at the same time to maintain a consistent sleep schedule.
 
-Image by author
+Get sunlight first thing in the morning to regulate the circadian rhythm and try not to settle the sleep debt on the weekends.
+### It only takes 15 minutes daily to save your longevity
 
-> *Which area of the body do you breathe into most?*
+Lifestyle is formed by daily habits that you do without a single thought. These routines are so familiar that you don't have to think twice before performing them.
 
-### 5. Nose breathing increases oxygen uptake in the blood
+One habit that can improve your lifestyle instantly is exercise, but it's not easy so it takes years of practice to achieve automaticity.
 
-> "It has been [estimated](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) that approximately one third of people don't breathe well enough to sustain normal health. These people do not get enough oxygenation of their cells, tissues and organs." — [Lenus](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf)
+Movement on the other hand can be added to a routine easily. So, equate movement with an active lifestyle before you get intimidated by exercise.
 
-To understand this properly, it's important to look at the relationship that oxygen and carbon dioxide have with a sticky protein called haemoglobin.
+You cut short your longevity by falling prey to a sedentary lifestyle which can be easily contested with regular movement throughout the day.
 
-As oxygen enters the bloodstream it [attaches](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) to haemoglobin and they both get pumped around the body by the heart. Without the presence of carbon dioxide, however, oxygen will [stay](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) bound to haemoglobin and it won't be able to reach the tissue cells in the body that need it to function. So people a balanced breath is important to keeping these two gases balanced.
-> "Over 95% of oxygen carried in the blood is attached to haemoglobin. When capillary PCO2 (carbon dioxide partial pressure) rises, there is increased unloading of oxygen in the tissues (the Bohr Effect). However, a reduction in carbon dioxide partial pressure strengthens the bond between oxygen and haemoglobin, resulting in less oxygen being released in to the tissues and organs.
+[Regular physical activity has been found to decrease all-cause mortality by 30% to 35%,](https://pmc.ncbi.nlm.nih.gov/articles/PMC3395188/) it's a staggering stat that should get you out and moving.
 
-Furthermore:
-> When an individual over breathes *(typically through the mouth)*, too much carbon dioxide is lost from the blood and this results in reduced oxygenation of tissues and organs. In contrast, when breathing volume is reduced towards normal, through nose breathing, higher carbon dioxide in the blood decreases the affinity between oxygen and haemoglobin, resulting in greater oxygenation of tissues and organs." — [Lenus](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf)
+Exercise snacks during the day can reduce your risk of premature death caused by sedentary behavior.
 
-Again, there are two options to choose from when it comes to breathing — to breathe in through the nose or breathe in through the mouth.
+But sadly it's not enough to protect your brain from the clutches of aging. You also need exercise in your daily routine to fight the effects of aging.
 
-If you choose the nose, you'll increase the amount of oxygen that reaches the tissues in your body and your cells will love you for it.
-### 6. Nose breathing balances the body's pH levels
+[Strength training has been found to boost BDNF,](https://pmc.ncbi.nlm.nih.gov/articles/PMC9658702/) an essential protein that regulates neural function and regulation.
 
-Oxygen is a [neutral gas](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.) on the pH scale while carbon dioxide is [acidic](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.). (Carbon dioxide dissolves in water to form carbonic acid.) So, when the breath becomes unbalanced so do our pH levels.
+It can even [reduce the risk of Alzheimer's by 50%](https://pmc.ncbi.nlm.nih.gov/articles/PMC8126521/) in people who are predisposed to the APOE 3/4 gene.
 
-Whenever this happens, the body experiences two opposing [states](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.): *respiratory alkalosis* and *respiratory acidosis.*
+Moreover, muscle is a metabolic organ that regulates energy in the body but it becomes slow and weak with age, so you need to train it consistently.
 
-Respiratory alkalosis is caused by breathing too deeply and/or too often and it can [be brought on](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.) by things like diet, stress, breathing in through the mouth, and/or poor health.
+So, exercise is the one resolution you direly need these new years but the real task is to follow through with consistency.
 
-This begins to over-oxygenate the cells inside the body while depleting its carbon dioxide supply. Over time this can [lead](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.) to things such as anxiety, depression, dizziness, nausea, numbness in the hands and feet, and muscle spasms.
+Make movement your goal till exercise becomes second nature for you. It will take you a few years to fall in love with exercise, but it's worth it.
+### Protect your brain from the deadliest toxin
 
-Respiratory acidosis is its counterpart, and it happens for the opposite reasons. When not enough carbon dioxide is removed from the body it becomes "stale" or acidic. This typically [occurs](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.) from weaker or shallower breathing caused by pulmonary diseases such as emphysema and pulmonary fibrosis. It can also [be brought on](https://www.ncbi.nlm.nih.gov/books/NBK507807/#:~:text=In%20the%20human%20body%2C%20carbon,dioxide%20present%20for%20this%20reaction.) by obesity, asthma, and smoking.
+Easy habits are often forgotten because of their simplistic nature, a mistake that can cost you your health in the long run.
 
-Luckily, the general rule of thumb for maintaining a healthy pH balance with the breath is simple: **Breathe smooth, calm, consistent breaths in through the nose and breathe less.**
-### 7. Nose breathing engages the vagus nerve
+One such mistake is dehydration, which causes a plethora of problems that can be solved by sipping water timely.
 
-The vagus nerve makes up [three-quarters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859128/#:~:text=The%20vagus%20nerve%20represents%20the,%2C%20digestion%2C%20and%20heart%20rate.) of the parasympathetic nervous system which is better known for helping us rest and digest. It [does this by](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859128/#:~:text=The%20vagus%20nerve%20represents%20the,%2C%20digestion%2C%20and%20heart%20rate.) slowing down the heart, steadying the breath, smoothing digestion, improving recovery and healing times, producing saliva, releasing endorphins and hormones such asdopamine, oxytocin, and serotonin, and boosting the immune and cardiovascular systems.
+Your brain is 73% water, so even mild dehydration(1%–2%) can caus[e poor cognitive performance and affect your short-term memory.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4207053/#:~:text=Recently%20we%20have%20learned%20that,in%20need%20of%20additional%20research.)
+It contributes to poor concentration and slows down critical thinking.
 
-The vagus nerve [travels](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859128/#:~:text=The%20vagus%20nerve%20represents%20the,%2C%20digestion%2C%20and%20heart%20rate.) from the brainstem to the gut, passing through the tongue, throat, neck, heart, lungs, diaphragm, and abdomen. Along the way, it [delivers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859128/#:~:text=The%20vagus%20nerve%20represents%20the,%2C%20digestion%2C%20and%20heart%20rate.) vital information to most of our essential organs and sends anti-inflammatory signals around the body to make us feel calm, relaxed, and at ease.
+Moreover, dehydration decreases the levels of water in the bloodstream which can make your blood sugar levels shoot up.
 
-Because we each breathe close to 20,000 breaths a day, breathing in through the nose is a great way to consistently activate the vagus nerve and boost health.
-### 8. Nose breathing supports proper bone structure and facial growth
+A sugar spike impacts cognition and causes brain fog that leads to low concentration and poor focus.
 
-Some scientists, medical professionals, and dentists have [linked](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf) sustained mouth breathing to intergenerational conditions such asovercrowded mouths, shallower mouth palates, deviated septums, receding jaw lines and gums, restricted airways, and overbites/underbites.
+All this can be easily mended by picking up a glass of water, a simple and essential habit that we fail at miserably.
 
-To understand their reasoning behind this, think about how wind direction can influence a growing tree or how water can shape and mould something as hard as rock. It doesn't matter how rigid something appears to be in nature, repetitive action reigns supreme in the end. The way the breath shapes the body is no different.
+Another habit that leaves you dehydrated is alcohol. It's a diuretic that not only makes you dehydrated but also impacts brain function in the long run.
 
-If the areas in and around the nose and nasal cavity don't have enough air flowing over them because a person is mouth breathing, for example, the soft tissues that develop there will eventually close up. If more time passes, cartilage and bone structure will also change. The mouth palate will drop too and the airways will become tighter as a result. This is just how evolution works and it shows how sinuses can become blocked, how snoring and sleep apnea can develop, and even how deviated septums can form over time.
+So, not only are you skipping on the one drink that can ensure proper hydration but also indulging in the most harmful substance that causes dehydration.
 
-The good news is that because the breath can create these developmental changes, it can also reverse them. It will take time, of course, but just like how water will erode a rock drip by drip, each passing breath has the opportunity to shape the body in new and exciting ways.
+There's no habit easier than sipping water regularly, it can help you boost longevity and improve brain health at the same time.
 
-The first decision you have to make is whether you want to breathe in through your nose or mouth and that all starts on your next inhale. And the next...
+And reduce your alcohol consumption to a minimum to save your brain from this addiction, it's a toxin that's been promoted for centuries to facilitate socialization.
+### The modern plague that kills your brain health
 
-And the next.
-> "Children whose mouth breathing is untreated may develop long, narrow faces, narrow mouths, high palatal vaults, dental malocclusion, gummy smiles, and many other unattractive facial features… These children do not sleep well at night due to obstructed airways; this lack of sleep can adversely affect their growth and academic performance. Many of these children are misdiagnosed with attention deficit disorder (ADD) and hyperactivity." — [Lenus](https://www.lenus.ie/bitstream/handle/10147/559021/JAN15Art7.pdf)
+Loneliness is the silent pandemic that kills your longevity and brain health a little every day.
 
-### Closing Thought
+The staggering stats point to the rapid increase in worldwide loneliness that causes people to take extreme measures daily.
 
-Let's end on a simple yet fulfilling high.
+The pandemic has highlighted the depressive state of society, [where one in four people feels lonely worldwide.](https://www.nytimes.com/2024/05/09/well/mind/loneliness-brain-dementia-isolation.html)
 
-Here is a nugget of wisdom that [originates](https://chopra.com/articles/breathing-for-life-the-mind-body-healing-benefits-of-pranayama) from the ancient Sanskrit language that birthed all breathing exercises:
-> **"For breath is life, and if you breathe well you will live long on earth"**
+Loneliness activates a stress response that pushes you to look for a company, this signal becomes exhausting when chronic loneliness hits.
+
+You perceive this signal with caution and every opportunity for socialization goes through an extensive threat detection process.
+
+Your brain pays a heavy price for this hypersensitivity as chronic loneliness is linked to neurodegenerative diseases like Alzheimer's and Parkinson's.
+
+Moreover, [lonely people are less likely to exercise and more likely to smoke](https://pmc.ncbi.nlm.nih.gov/articles/PMC6377432/), both of which factors harm the brain in the long run.
+
+We are social creatures so loneliness will harm your brain and cut short your longevity.
+
+Moreover the lifestyle effects on loneliness will push you to a grave sooner than later. So, take time out of your busy schedule and socialize.
+
+Nourish your relationships consistently with constant contact if you're not able to meet in person.
+
+Dr. Lipman believes being kind to each other can bridge the gap and make us feel less lonely.
+### Conclusion
+
+Longevity is hidden in your daily routine, it's the simple truth that can improve the quality of your life.
+
+But you waste this opportunity by making lifestyle mistakes that harm your longevity in the long run.
+
+These daily blunders wreck your longevity, so make an active effort to rectify these mistakes.
+
+* Keep a water bottle with you to beat dehydration.* Focus on optimizing your sleep routine daily.* Avoid inflammatory foods, to keep your gut healthy.* Prioritize your relationships to beat loneliness.* Add strength training to your routine.
+
+ [## Get an email whenever Khyati Jain publishes.
+
+### Get an email whenever Khyati Jain publishes. Subscribe for a healthier and better life! By signing up, you will create a…
+
+medium.com](https://khyatijain01.medium.com/subscribe) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
